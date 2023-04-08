@@ -10,7 +10,7 @@ const Cards = () => {
       <p className="text-center text-[#42446E]">
         A journey through my most exciting web development projects
       </p>
-      <div className="w-fit mt-10 mx-auto p-4 grid grid-cols-3 gap-10 justify-center">
+      <div className="w-fit mt-10 mx-auto p-4 grid grid-cols-1 md:grid-cols-3 gap-10 justify-center">
         <Card />
         <Card />
         <Card />
