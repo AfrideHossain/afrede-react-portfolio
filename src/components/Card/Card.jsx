@@ -2,7 +2,7 @@ import React from "react";
 
 const Card = () => {
   return (
-    <div className="w-full md:w-80 rounded-xl shadow">
+    <div className="w-full md:w-80 rounded-xl shadow-2xl">
       <img
         className="w-full rounded-t-xl mb-2"
         src="https://img.freepik.com/free-photo/abstract-black-futuristic-background_53876-104058.jpg?w=740&t=st=1680287615~exp=1680288215~hmac=8f6d6cbc29ac1241a16d21398da1f649309a2fddb0dbde1aceaddb3467dc4138"
